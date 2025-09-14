@@ -1,3 +1,3 @@
-module github.com/ryvasa/proto-bank
+module github.com/ryvasa/protobank
 
 go 1.25.1
